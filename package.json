@@ -1,0 +1,14 @@
+{
+  "name": "nope",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "lodash": "*",
+    "socket.io": "~0.9.14"
+  }
+}
