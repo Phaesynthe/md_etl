@@ -10,5 +10,8 @@
     "express": "~3.2.4",
     "lodash": "*",
     "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node app/app"
   }
 }

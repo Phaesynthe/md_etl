@@ -10,7 +10,6 @@ var mappings = [
 
 module.exports = {
   getFieldFromLabel: label => {
-    _(mappings)
-      .filter({ label: label })[0];
+    return _(mappings).find({ 'label': label });
   }
 };
